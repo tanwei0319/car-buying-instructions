@@ -1,6 +1,6 @@
-# Welcome to WalmartLabs Women Who Code Electrode Workshop
+# Women Who Code Electrode Workshop
 
-We are here to build a Car-Buying Experience Application using the OpenSource Electrode platform developed by WalmartLabs.
+A Car-Buying Experience Application using the OpenSource Electrode platform developed by WalmartLabs.
 
 ## Setup
 
